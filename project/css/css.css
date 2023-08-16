@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  background-color: black;
+  text-align: center;
+  align-content: center;
+}
+.btn1{
+  background: none;
+  color: white;
+  text-align: center;
+  align-content: center;
+  text-decoration: none;
+  margin-top: 20%;
+  margin-left: 40.2%;
+  cursor: pointer;
+  border: 10px 10px;
+  border-color: white;
+}
+
+.btn2{
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #33ff0a;
+  border-radius: 20px;
+  border: 0;
+  padding: 10px 60px;
+  cursor: pointer;
+  margin-left: 10%;
+  max-height: 40px;
+  margin-top: 20%;
+}
